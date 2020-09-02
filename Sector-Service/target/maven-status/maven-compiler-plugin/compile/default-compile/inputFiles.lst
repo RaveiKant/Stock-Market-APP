@@ -1,0 +1,11 @@
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/dao/SectorDAO.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/entity/Company.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/dto/CompaniesInSectorResponse.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/entity/StockPrice.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/service/SectorService.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/entity/Sector.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/service/SectorServiceImpl.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/controller/SectorController.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/dao/CompanyDAO.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/dto/SectorRequest.java
+/Users/ravi/Documents/stock_market_app/Sector-Service/src/main/java/com/sector/SectorServiceApplication.java
